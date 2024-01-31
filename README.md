@@ -1,12 +1,12 @@
 
-##About the project:
+## About the project:
 
 CatalogServiceApi is a project in .Net 5 that makes a CRUD in MongoDb.
 It uses MongoCollection implementation.
 
 ---
 
-###How to use
+### How to use
 
 1. Clone the project to your machine
 
